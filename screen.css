@@ -20,3 +20,12 @@ a.active {
 
 text-align: center;
   }
+  section{
+
+    text-align: left;
+      }
+
+      section{
+
+        text-align: right;
+    }
