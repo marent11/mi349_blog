@@ -5,7 +5,7 @@ a.active {
 
 
 .buttons{
-
+position: top right;
 background-position: top right ;
 background-size: 40px;
 
