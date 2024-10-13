@@ -46,3 +46,23 @@ a.active {
     text-decoration: none;
     
       }
+
+
+
+
+
+      .section6{
+        background-color: hsl(0, 0%, 58%);
+        border: none;
+        color: white;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: flex;
+        justify-content: right; 
+        align-items: right;
+        font-size: 20px;
+        text-decoration: none;
+
+
+      }
