@@ -12,8 +12,7 @@ a.active {
     
     text-decoration: none;
     display: flex;
-    justify-content: center; 
-    align-items: center;
+    justify-content: left;
     font-size: 20px;
     text-decoration: none;
   }
@@ -41,8 +40,8 @@ a.active {
     text-align: center;
     text-decoration: none;
     display: flex;
-    justify-content: center; 
-    align-items: center;
+    justify-content: right; 
+    align-items: right;
     font-size: 20px;
     text-decoration: none;
     
