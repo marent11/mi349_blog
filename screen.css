@@ -5,7 +5,7 @@ a.active {
 
 
 .button1 {
-    background-color: #04AA6D; 
+    background-color: hsl(0, 0%, 58%); 
     border: none;
     color: white;
     padding: 10px 20px;
@@ -20,7 +20,7 @@ a.active {
   .button2{
 
     text-align: center;
-    background-color: #04AA6D; 
+    background-color: hsl(0, 0%, 58%);
     border: none;
     color: white;
     padding: 10px 20px;
@@ -33,7 +33,7 @@ a.active {
     text-decoration: none;
   }
   .button3{
-    background-color: #04AA6D; 
+    background-color: hsl(0, 0%, 58%);
     border: none;
     color: white;
     padding: 10px 20px;
