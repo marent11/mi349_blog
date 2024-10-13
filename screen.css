@@ -4,7 +4,7 @@ a.active {
 }
 
 
-.button {
+.button1 {
     background-color: #04AA6D; 
     border: none;
     color: white;
@@ -16,16 +16,28 @@ a.active {
     text-decoration: none;
   }
 
-  section-1{
+  .button2{
 
-text-align: center;
+    text-align: center;
+    background-color: #04AA6D; 
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    text-decoration: none;
   }
-  section-2{
-
+  .button3{
+    background-color: #04AA6D; 
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    text-decoration: none;
     text-align: left;
       }
-
-      section-3{
-
-        text-align: right;
-    }
