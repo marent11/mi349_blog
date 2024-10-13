@@ -11,8 +11,8 @@ a.active {
     padding: 10px 20px;
     
     text-decoration: none;
-    display: inline-block;
-    justify-content: left;
+    display: flex;
+    justify-content: right;
     font-size: 20px;
     text-decoration: none;
   }
@@ -26,9 +26,9 @@ a.active {
     padding: 10px 20px;
     
     text-decoration: none;
-    display: inline-block;
-    justify-content: center; 
-    align-items: center;
+    display: flex;
+    justify-content: right; 
+    align-items: right;
     font-size: 20px;
     text-decoration: none;
   }
@@ -39,7 +39,7 @@ a.active {
     padding: 10px 20px;
     text-align: center;
     text-decoration: none;
-    display: inline-block;
+    display: flex;
     justify-content: right; 
     align-items: right;
     font-size: 20px;
