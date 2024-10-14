@@ -48,6 +48,14 @@ img {
 
 
 }
+.img1 {
+  width: 2px;  
+  height: auto; 
+  max-width: 100%; 
+  display: block;
+
+
+}
 
 .image-text-section {
   display: flex;
