@@ -46,15 +46,6 @@ img {
   max-width: 100%; 
   display: block;
 
-
-}
-.img1 {
-  width: 2px;  
-  height: auto; 
-  max-width: 100%; 
-  display: block;
-
-
 }
 
 .image-text-section {
@@ -75,5 +66,13 @@ img {
   font-size: 16px;
   line-height: 1.5;
 }
+.lego {
+  text-align: center; 
+}
 
+img {
+  width: auto; 
+  height: auto; 
+  max-width: 100%; 
+}
 
