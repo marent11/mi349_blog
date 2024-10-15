@@ -3,7 +3,7 @@ ul {
   margin: 0;
   padding: 0;
   display: flex;
-  justify-content: flex-end; /* Align buttons to the right */
+  justify-content: flex-end; 
 }
 
 ul li {
@@ -22,7 +22,7 @@ a.active {
   font-weight: bold;
 }
 
-/* Center the heading */
+
 header {
   text-align: center;
   margin-top: 20px;
