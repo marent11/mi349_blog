@@ -91,3 +91,12 @@ header {
   z-index: 100;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
+
+table{
+  border: 1px solid black; 
+  padding: 8px;
+
+}
+th {
+  background-color: #f2f2f2; 
+}
